@@ -1,2 +1,3 @@
 # wordle
-An implementation of a wordle strategy
+
+An implementation of a wordle strategy.
